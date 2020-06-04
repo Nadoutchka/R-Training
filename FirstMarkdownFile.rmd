@@ -10,6 +10,7 @@ output:
 x <- runif(40)
 y <- rnorm(40, 0, 1)
 plot(x, y)
+abline(1, 2)
 ```
 
 I'm writing an English sentence as asked.
