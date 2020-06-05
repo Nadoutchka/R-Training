@@ -15,4 +15,3 @@ abline(1, 2)
 
 I'm writing an English sentence as asked.
 
-
